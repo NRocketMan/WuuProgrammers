@@ -1,5 +1,8 @@
-### Hi there,welcome to my profile👌
-### Where to find me
+![WuuProgrammers](/WuuProgrammers Logo.jpg)
+### Hi there,welcome to our profile😎
+WuuProgrammers is a company that creates templates and hacking scripts for all.
+
+### Where to find us
 <div align="center">
 <a href="https://github.com/WuuProgrammers" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -10,7 +13,7 @@
 <a href="https://www.instagram.com/madmax4708/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
-### Things I code with
+### Things we code with
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -41,9 +44,9 @@
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/WuuProgrammers"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=WuuProgrammers&color=blueviolet&style=flat-square"></a>
 
-![coverage](https://img.shields.io/badge/coverage-79%25-yellowgreen)
+![coverage](https://img.shields.io/badge/coverage-84%25-yellowgreen)
 ![codacy](https://img.shields.io/badge/codacy-A-green)
-![downloads](https://img.shields.io/badge/downloads-196%2Fmonth-brightgreen)
+![downloads](https://img.shields.io/badge/downloads-1,258%2Fmonth-brightgreen)
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
@@ -58,6 +61,12 @@
 <a href="https://github.com/https://github.com/WuuProgrammers/Windows10"><img title="Windows10" src="https://github-readme-stats.vercel.app/api/pin?username=WuuProgrammers&repo=Windows10&theme=dark"></a>
 <p align="center"
 <a href="https://github.com/https://github.com/WuuProgrammers/Amazing-Multicolor-Fireworks"><img title="Amazing-Multicolor-Fireworks" src="https://github-readme-stats.vercel.app/api/pin/?username=WuuProgrammers&repo=Amazing-Multicolor-Fireworks&theme=dark"></a>
+<p align="center"
+<a href="https://github.com/https://github.com/WuuProgrammers/Clash-of-Tanks"><img title="Clash-of-Tanks" src="https://github-readme-stats.vercel.app/api/pin/?username=WuuProgrammers&repo=Clash-of-Tanks&theme=dark"></a>
+<p align="center"
+<a href="https://github.com/https://github.com/WuuProgrammers/CSS-cube"><img title="CSS-Cube" src="https://github-readme-stats.vercel.app/api/pin/?username=WuuProgrammers&repo=CSS-Cube&theme=dark"></a>
+<p align="center"
+<a href="https://github.com/https://github.com/WuuProgrammers/WuuProgrammers"><img title="WuuProgrammers" src="https://github-readme-stats.vercel.app/api/pin/?username=WuuProgrammers&repo=WuuProgrammers&theme=dark"></a>
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=wuu_programmers)](https://github.com/WuuProgrammers/github-readme-twitter)
 
