@@ -63,7 +63,7 @@ WuuProgrammers is a company that creates templates and hacking scripts for all.
 <p align="center"
 <a href="https://github.com/https://github.com/WuuProgrammers/Web-Design"><img title="Web-Design" src="https://github-readme-stats.vercel.app/api/pin/?username=WuuProgrammers&repo=Web-Design&theme=dark"></a>
 <p align="center"
-<a href="https://github.com/https://github.com/WuuProgrammers/Windows10"><img title="Windows10" src="https://github-readme-stats.vercel.app/api/pin?username=WuuProgrammers&repo=Windows10&theme=dark"></a>
+<a href="https://github.com/https://github.com/WuuProgrammers/Windows10"><img title="Windows10" src="https://github-readme-stats.vercel.app/api/pin/?username=WuuProgrammers&repo=Windows10&theme=dark"></a>
 <p align="center"
 <a href="https://github.com/https://github.com/WuuProgrammers/Amazing-Multicolor-Fireworks"><img title="Amazing-Multicolor-Fireworks" src="https://github-readme-stats.vercel.app/api/pin/?username=WuuProgrammers&repo=Amazing-Multicolor-Fireworks&theme=dark"></a>
 <p align="center"
