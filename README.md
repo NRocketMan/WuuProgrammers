@@ -1,5 +1,7 @@
 # WuuProgrammers
-[!Screenshot](/WuuProgrammers Logo.jpg)
+   <p>
+   <img src="WuuProgrammersLogo.jpg" />
+   <p>
 ### Hi there,welcome to our profile😎
 WuuProgrammers is a company that creates templates and hacking scripts for all.
 
