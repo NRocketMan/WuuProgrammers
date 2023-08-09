@@ -77,4 +77,3 @@ The best days are spent coding.
 
 ### Stargazers
 [![Stargazers repo roster for @WuuProgrammers/WuuProgrammers](https://reporoster.com/stars/WuuProgrammers/WuuProgrammers)](https://github.com/WuuProgrammers/WuuProgrammers)
-
