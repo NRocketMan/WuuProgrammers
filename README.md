@@ -5,7 +5,8 @@
    <p>
 
 ### Hi there,welcome to my home👋🏽
-The best days are spent coding.
+WuuProgrammers is a company that creates templates and hacking scripts for all.
+
 ### Where to find me
 <div align="center">
 <a href="https://github.com/WuuProgrammers" target="_blank">
@@ -59,6 +60,8 @@ The best days are spent coding.
 </p>
 <a href="https://github.com/WuuProgrammers"><img title="WuuProgrammers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuuProgrammers&layout=compact&theme=dark"></a>
 </p>
+<p align="center"
+<a href="https://github.com/https://github.com/WuuProgrammers/GoogleDorks"><img title="GoogleDorks" src="https://github-readme-stats.vercel.app/api/pin/?username=WuuProgrammers&repo=GoogleDorks&theme=dark"></a>
 <p align="center"
 <a href="https://github.com/https://github.com/WuuProgrammers/Web-Design"><img title="Web-Design" src="https://github-readme-stats.vercel.app/api/pin/?username=WuuProgrammers&repo=Web-Design&theme=dark"></a>
 <p align="center"
