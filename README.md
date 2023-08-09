@@ -5,8 +5,7 @@
    <p>
 
 ### Hi there,welcome to my home👋🏽
-WuuProgrammers is a company that creates templates and hacking scripts for all.
-
+The best days are spent coding.
 ### Where to find me
 <div align="center">
 <a href="https://github.com/WuuProgrammers" target="_blank">
