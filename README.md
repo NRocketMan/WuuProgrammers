@@ -5,7 +5,7 @@
    <p>
 
 ### Hi there,welcome to my home👋🏽
-WuuProgrammers is a company that creates templates and hacking scripts for all.
+Going in hard
 
 ### Where to find me
 <div align="center">
